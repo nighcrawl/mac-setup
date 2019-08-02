@@ -1,31 +1,23 @@
+brew 'zsh'
 brew 'git' 
-brew 'ruby' 
+brew 'ruby'
 brew 'mas'
+brew 'httpd'
+brew 'php@7.1'
+brew 'mysql'
+brew 'libsass'
 
 cask 'appcleaner'
-cask 'background-music'
-cask 'cyberduck'
-cask 'firefox'
-cask 'flux'
-cask 'fork'
+cask 'firefox-developer-edition'
 cask 'google-chrome'
-cask 'gpg-suite'
-cask 'keepingyouawake'
-cask 'keka'
-cask 'mamp'
-cask 'opera'
-cask 'postman'
 cask 'sequel-pro'
-cask 'skype'
-cask 'slack'
-cask 'spectacle'
 cask 'spotify'
-cask 'transmission'
-cask 'tunnelblick'
 cask 'visual-studio-code'
-cask 'vlc'
 
-mas "iMovie", id: 408981434
-mas "Numbers", id: 409203825
+mas "Microsoft Remote Desktop", id: 715768417
+mas "Cinch", id: 412529613
+mas "Harvest", id: 506189836
+mas "Trello", id: 1278508951
+mas "Slack", id: 803453959
 mas "Pages", id: 409201541
-mas "Xcode", id: 497799835
+mas "Numbers", id: 409203825
